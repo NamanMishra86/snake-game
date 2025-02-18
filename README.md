@@ -1,1 +1,1 @@
-# snake-game
+# snake-game-project by python
